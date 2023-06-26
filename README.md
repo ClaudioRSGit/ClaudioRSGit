@@ -1,14 +1,11 @@
-
 <center>
-
-
 
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=claudiorsgit&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
-<img src="https://i.pinimg.com/originals/85/56/2d/85562d79ff5cd98affde0e96f9c5b4b4.jpg" alt="Alt Text" width="80%">
+<img src="https://files.virgool.io/upload/users/237413/posts/bdocbar1evhr/xk6vaqwxx4lj.jpeg" alt="Alt Text" width="80%">
 
 
 Hey there! I'm Claudio Silva, a front-end enthusiast on a mission to level up my coding skills and become a pro in this exciting realm. My coding journey is fueled by a passion for creativity and a thirst for knowledge that knows no bounds. 🚀💻
