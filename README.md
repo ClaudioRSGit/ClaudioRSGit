@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=claudiorsgit&icon=2&color=0)](https://visitcount.itsvg.in)
+[![Counter](https://visitcount.itsvg.in/api?id=claudiorsgit&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
 # 💻 Tech Stack:
@@ -46,7 +46,7 @@ Hey there! I'm Claudio Silva, a front-end enthusiast on a
 
 <br>
 
-<img src="https://e1.pxfuel.com/desktop-wallpaper/801/916/desktop-wallpaper-programmer-programming-code-routine-minimalist-programming-code.jpg" height="250">
+<img src="code.png" height="250">
 
 
 <br>
