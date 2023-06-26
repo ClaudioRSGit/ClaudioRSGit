@@ -6,10 +6,11 @@
 [![](https://visitcount.itsvg.in/api?id=claudiorsgit&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
-<img src="https://e1.pxfuel.com/desktop-wallpaper/801/916/desktop-wallpaper-programmer-programming-code-routine-minimalist-programming-code.jpg">
+<img src="https://e1.pxfuel.com/desktop-wallpaper/801/916/desktop-wallpaper-programmer-programming-code-routine-minimalist-programming-code.jpg" height="250">
 
 
-Hey there! I'm Claudio Silva, a front-end enthusiast on a mission to level up my coding skills and become a pro in this exciting realm. My coding journey is fueled by a passion for creativity and a thirst for knowledge that knows no bounds. 🚀💻
+Hey there! I'm Claudio Silva, a front-end enthusiast on a 
+<br> mission to level up my coding skills and become <br> a pro in this exciting realm. My coding journey is fueled by <br> a passion for creativity and a thirst for knowledge that knows no bounds. 🚀💻
 
 <br>
 
@@ -25,7 +26,7 @@ Hey there! I'm Claudio Silva, a front-end enthusiast on a mission to level up my
    <br>
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat&logo=Prezi&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
-<br><br>
+<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiorsgit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
