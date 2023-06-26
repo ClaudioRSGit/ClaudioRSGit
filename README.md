@@ -6,7 +6,7 @@
 [![](https://visitcount.itsvg.in/api?id=claudiorsgit&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
-<img src="https://files.virgool.io/upload/users/237413/posts/bdocbar1evhr/xk6vaqwxx4lj.jpeg" alt="Alt Text" width="100%" height="300">
+<img src="https://e1.pxfuel.com/desktop-wallpaper/801/916/desktop-wallpaper-programmer-programming-code-routine-minimalist-programming-code.jpg">
 
 
 Hey there! I'm Claudio Silva, a front-end enthusiast on a mission to level up my coding skills and become a pro in this exciting realm. My coding journey is fueled by a passion for creativity and a thirst for knowledge that knows no bounds. 🚀💻
