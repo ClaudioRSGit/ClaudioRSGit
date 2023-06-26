@@ -1,8 +1,4 @@
-
 <div align="center">
-
-[![Counter](https://visitcount.itsvg.in/api?id=claudiorsgit&icon=2&color=0)](https://visitcount.itsvg.in)
-
 
 # 💻 Tech Stack:
 
@@ -44,6 +40,9 @@
 Hey there! I'm Claudio Silva, a front-end enthusiast on a 
 <br> mission to level up my coding skills and become <br> a pro in this exciting realm. My coding journey is fueled by <br> a passion for creativity and a thirst for knowledge that knows no bounds. 🚀💻
 
+  <br>
+
+# 🌐Follow me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cl%C3%A1udio-silva-83031817a/) 
 <br>
 
 <img src="code.png" height="250">
@@ -68,9 +67,5 @@ Hey there! I'm Claudio Silva, a front-end enthusiast on a
 
 
 ---
-
-
-<!-- ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cl%C3%A1udio-silva-83031817a/)  -->
 
 </div>
