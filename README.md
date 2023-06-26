@@ -1,4 +1,5 @@
-<center>
+
+<div align="center">
 
 <br>
 
@@ -40,3 +41,4 @@ Hey there! I'm Claudio Silva, a front-end enthusiast on a mission to level up my
 <!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cl%C3%A1udio-silva-83031817a/)  -->
 
+</div>
