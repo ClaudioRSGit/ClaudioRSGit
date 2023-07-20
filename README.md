@@ -40,7 +40,7 @@ Hey there! I'm Claudio Silva, a front-end enthusiast on a
 # 🌐Follow me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cl%C3%A1udio-silva-83031817a/) 
 <br>
 
-<img src="Artboard 1@4x.png" height="250">
+<img src="Artboard.png" height="250">
 
 
 <br>
